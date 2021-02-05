@@ -1,5 +1,8 @@
 { 
-  "year": "2020", 
-  "include": { "files": "*.pdf", "recusrsive" : "yes" }
+  "year": "2020",
+  "entity": "Elevare Investments LLC", 
+  "include": [ 
+               { "files": "*.pdf", "recusrsive" : "no" } 
+              ]
 
 }
