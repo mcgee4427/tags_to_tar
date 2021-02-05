@@ -1,0 +1,5 @@
+{ 
+  "year": "2020", 
+  "include": { "files": "*.pdf", "recusrsive" : "yes" }
+
+}
