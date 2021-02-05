@@ -1,0 +1,32 @@
+{ 
+  "year": "2020", 
+  "manifest_file": "2020_manifest.json",
+  "output_folder": "C:\\Data",
+  "entities": [
+    { 
+      "name": "Elevare Investments LLC",
+      "output_file": "_elevare_investments_llc_tax_archive",
+      "search_folder": "X:\\OneDrive\\BusinessDocuments\\co_elevare_investments\\"
+    },
+    {
+      "name": "Sunset 9846 LLC",
+      "output_file": "_sunset_9846_llc_tax_archive",
+      "search_folder": "X:\\OneDrive\\BusinessDocuments\\co_sunset_9846\\"
+    },
+    {
+      "name": "Manor 5601 LLC",
+      "output_file": "_manor_5601_llc_tax_archive",
+      "search_folder": "X:\\OneDrive\\BusinessDocuments\\co_manor_5601\\"
+    },
+    {
+      "name": "ACME Blue Holdings LLC",
+      "output_file": "_acme_blue_llc_tax_archive",
+      "search_folder": "X:\\OneDrive\\BusinessDocuments\\co_acme_blue_holdings\\"
+    },
+    {
+      "name": "Personal",
+      "output_file": "_personal_archive",
+      "search_folder": "X:\\OneDrive\\PersonalDocuments\\Finance\\"
+    }
+  ]
+}
